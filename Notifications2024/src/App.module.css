@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+  font-size: 62.5%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: #343a40;
+  font-family: "Assistant", sans-serif;
+}
+
+.topHeader {
+  margin: 7.2rem auto;
+  /* height: 33vh; */
+  height: auto;
+  width: 75vw;
+
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+
+/* .sectionNotification {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  font-size: 5.16rem;
+} */
+
+.sectionLinks {
+  width: 75vw;
+  margin-top: 5.6rem;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 7.2rem;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.5rem;
+}
+
+/****************************/
+/* Media query up to 1440px:*/
+/****************************/
+@media (max-width: 90em) {
+  .sectionLinks {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .topHeader {
+    grid-template-columns: 1fr;
+  }
+}
+
+/****************************/
+/* Media query up to 1000px:*/
+/****************************/
+@media (max-width: 52.5em) {
+  .sectionLinks {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Spacing System: */
+/* 0px / 8px / 16px / 24px / 32px / 40px / 48px / 56px / 64px / 72px / 80px  / 88px  / 96px  / 104px  / 112px  / 120px / 128px */
+
+/* Font Size System: 
+ 
+/ 295.815px 18.488 rem / 246.512px 15.407 rem / 205.427px 12.839 rem / 171.189px 10.699 rem / 142.658px 8.916 rem / 118.881px 7.43 rem / 
+/ 99.068px 6.192 rem / 82.556px 5.16 rem / 68.797px 4.3 rem / 57.331px 3.583 rem / 47.776px 2.986 rem / 39.813px 2.488 rem / 
+/ 33.178px 2.074 rem / 27.648px 1.728 rem / 23.04px 1.44 rem / 19.2px 1.2 rem / 16px 1 rem / 13.333px 0.833 rem / 11.111px 0.694 rem / 
+/ 9.259px 0.579 rem / 7.716px 0.482 rem / 6.43px 0.402 rem / 5.358px 0.335 rem  / 
+
+
+*/
