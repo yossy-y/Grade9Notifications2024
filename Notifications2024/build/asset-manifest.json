@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Notifications2024/static/css/main.e7b88dea.css",
+    "main.js": "/Notifications2024/static/js/main.9eeeea5a.js",
+    "static/js/453.ed3810f9.chunk.js": "/Notifications2024/static/js/453.ed3810f9.chunk.js",
+    "static/media/HeaderBackgroundImage.png": "/Notifications2024/static/media/HeaderBackgroundImage.ff1db804db1e263edccb.png",
+    "static/media/9thGradeBooksList.pdf": "/Notifications2024/static/media/9thGradeBooksList.64211c5ff26bc29d15c6.pdf",
+    "static/media/9thGradeLocation.pdf": "/Notifications2024/static/media/9thGradeLocation.817fc98a5ebe7fec2f13.pdf",
+    "static/media/LockerRental.pdf": "/Notifications2024/static/media/LockerRental.328fce2bc0dc2a0db67e.pdf",
+    "static/media/LetterTo9thGradeStudentsAndTheirParents.pdf": "/Notifications2024/static/media/LetterTo9thGradeStudentsAndTheirParents.b12828345383bfa94738.pdf",
+    "static/media/SchoolLifestyle.pdf": "/Notifications2024/static/media/SchoolLifestyle.2c6bfad1585f8e52e92c.pdf",
+    "static/media/LaptopPurchase.pdf": "/Notifications2024/static/media/LaptopPurchase.cf3ff4d38f4ce9358247.pdf",
+    "static/media/RingtoneBoard2025.pdf": "/Notifications2024/static/media/RingtoneBoard2025.c4124dbb1de63632654f.pdf",
+    "static/media/LockerRental.jpg": "/Notifications2024/static/media/LockerRental.c101373898522bee7ce8.jpg",
+    "static/media/RingtoneBoard.jpg": "/Notifications2024/static/media/RingtoneBoard.311488d8d8dc3aeae3a5.jpg",
+    "static/media/Letter.jpg": "/Notifications2024/static/media/Letter.9658430b070a5931fb43.jpg",
+    "static/media/LaptopPurchase.jpg": "/Notifications2024/static/media/LaptopPurchase.16e1f5ac55306475fe94.jpg",
+    "static/media/BooksList.jpg": "/Notifications2024/static/media/BooksList.39285cc16a65b764e929.jpg",
+    "static/media/ClassroomsLocation.jpg": "/Notifications2024/static/media/ClassroomsLocation.b2fa50ad987e529553c0.jpg",
+    "static/media/SchoolUniform.jpg": "/Notifications2024/static/media/SchoolUniform.97694aa1e225eb9196cc.jpg",
+    "index.html": "/Notifications2024/index.html",
+    "main.e7b88dea.css.map": "/Notifications2024/static/css/main.e7b88dea.css.map",
+    "main.9eeeea5a.js.map": "/Notifications2024/static/js/main.9eeeea5a.js.map",
+    "453.ed3810f9.chunk.js.map": "/Notifications2024/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7b88dea.css",
+    "static/js/main.9eeeea5a.js"
+  ]
+}
