@@ -1,6 +1,7 @@
 import classes from "./App.module.css";
 
-import HeaderImage from "./components/HeaderImage";
+// import HeaderImage from "./components/HeaderImage";
+import Logo from "./assets/Images/Logo.png";
 import HeaderText from "./components/HeaderText";
 // import Notifications from "./components/Notifications";
 import Link from "./components/Link";
@@ -29,7 +30,8 @@ function App() {
   return (
     <>
       <header className={classes.topHeader}>
-        <HeaderImage />
+        {/* <HeaderImage /> */}
+        <img src={Logo} alt="Ohel-Shem log" className={classes.logoImage} />
         <HeaderText />
       </header>
       <main>

@@ -29,6 +29,13 @@ body {
   font-size: 5.16rem;
 } */
 
+.logoImage {
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: inherit;
+  transform: scale(1.5);
+}
+
 .sectionLinks {
   width: 75vw;
   margin-top: 5.6rem;
