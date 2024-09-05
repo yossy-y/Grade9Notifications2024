@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Grade9Notifications2024/static/css/main.cefe6e6f.css",
-    "main.js": "/Grade9Notifications2024/static/js/main.c90346a4.js",
+    "main.css": "/Grade9Notifications2024/static/css/main.1093c77c.css",
+    "main.js": "/Grade9Notifications2024/static/js/main.84093d8b.js",
     "static/js/453.ed3810f9.chunk.js": "/Grade9Notifications2024/static/js/453.ed3810f9.chunk.js",
     "static/media/9thGradeBooksList.pdf": "/Grade9Notifications2024/static/media/9thGradeBooksList.64211c5ff26bc29d15c6.pdf",
     "static/media/9thGradeLocation.pdf": "/Grade9Notifications2024/static/media/9thGradeLocation.817fc98a5ebe7fec2f13.pdf",
     "static/media/LockerRental.pdf": "/Grade9Notifications2024/static/media/LockerRental.328fce2bc0dc2a0db67e.pdf",
+    "static/media/LaptopPurchase.pdf": "/Grade9Notifications2024/static/media/LaptopPurchase.3f0f8f7e8ac6f2e8dd7f.pdf",
     "static/media/LetterTo9thGradeStudentsAndTheirParents.pdf": "/Grade9Notifications2024/static/media/LetterTo9thGradeStudentsAndTheirParents.b12828345383bfa94738.pdf",
     "static/media/SchoolLifestyle.pdf": "/Grade9Notifications2024/static/media/SchoolLifestyle.2c6bfad1585f8e52e92c.pdf",
-    "static/media/LaptopPurchase.pdf": "/Grade9Notifications2024/static/media/LaptopPurchase.cf3ff4d38f4ce9358247.pdf",
     "static/media/RingtoneBoard2025.pdf": "/Grade9Notifications2024/static/media/RingtoneBoard2025.c4124dbb1de63632654f.pdf",
     "static/media/LockerRental.jpg": "/Grade9Notifications2024/static/media/LockerRental.c101373898522bee7ce8.jpg",
     "static/media/RingtoneBoard.jpg": "/Grade9Notifications2024/static/media/RingtoneBoard.311488d8d8dc3aeae3a5.jpg",
@@ -19,12 +19,12 @@
     "static/media/ClassroomsLocation.jpg": "/Grade9Notifications2024/static/media/ClassroomsLocation.b2fa50ad987e529553c0.jpg",
     "static/media/SchoolUniform.jpg": "/Grade9Notifications2024/static/media/SchoolUniform.97694aa1e225eb9196cc.jpg",
     "index.html": "/Grade9Notifications2024/index.html",
-    "main.cefe6e6f.css.map": "/Grade9Notifications2024/static/css/main.cefe6e6f.css.map",
-    "main.c90346a4.js.map": "/Grade9Notifications2024/static/js/main.c90346a4.js.map",
+    "main.1093c77c.css.map": "/Grade9Notifications2024/static/css/main.1093c77c.css.map",
+    "main.84093d8b.js.map": "/Grade9Notifications2024/static/js/main.84093d8b.js.map",
     "453.ed3810f9.chunk.js.map": "/Grade9Notifications2024/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cefe6e6f.css",
-    "static/js/main.c90346a4.js"
+    "static/css/main.1093c77c.css",
+    "static/js/main.84093d8b.js"
   ]
 }
