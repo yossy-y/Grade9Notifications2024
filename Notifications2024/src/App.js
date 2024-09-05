@@ -23,8 +23,6 @@ import ClassroomsLocationPDF from "./assets/files/9thGradeLocation.pdf";
 import RingtoneBoard2025PDF from "./assets/files/RingtoneBoard2025.pdf";
 import LaptopPurchasePDF from "./assets/files/LaptopPurchase.pdf";
 import LockerRentalPDF from "./assets/files/LockerRental.pdf";
-// import LaptopPurchase1PDF from "./assets/files/LaptopPurchase1.pdf";
-// import LaptopPurchase2PDF from "./assets/files/LaptopPurchase2.pdf";
 
 function App() {
   return (
@@ -39,43 +37,38 @@ function App() {
           <Notifications />
         </section> */}
         <section className={classes.sectionLinks}>
-          <Link linkName="אגרת להורים" background={Letter} file={LetterPDF} />
-          <Link linkName='אורח חיים' background={SchoolUniform} file={SchoolLifestylePDF} />
+          <Link linkName="אגרת להורים" background={Letter} path={LetterPDF} />
+          <Link linkName='אורח חיים' background={SchoolUniform} path={SchoolLifestylePDF} />
           {/* <Link linkName="מערכת שעות" background={TimeTable} /> */}
           <Link
             linkName="לוח צילצולים"
             background={RingtoneBoard}
-            file={RingtoneBoard2025PDF}
+            path={RingtoneBoard2025PDF}
           />
           <Link
             linkName="מיקומי כיתות"
             background={ClassroomsLocation}
-            file={ClassroomsLocationPDF}
+            path={ClassroomsLocationPDF}
           />
           <Link
             linkName="השאלת ספרים"
             background={BooksList}
-            file={BooksListPDF}
+            path={BooksListPDF}
+          />
+          <Link
+            linkName="קלסוס ספרי לימוד דיגיטלים"
+            background={BooksList}
+            path={"https://classoos.co.il/?p=45038"}
           />
           <Link
             linkName="רכישת מחשב נייד"
             background={LaptopPurchase}
-            file={LaptopPurchasePDF}
+            path={LaptopPurchasePDF}
           />
-          {/* <Link
-            linkName="רכישת מחשב נייד 1"
-            background={LaptopPurchase}
-            file={LaptopPurchase1PDF}
-          />
-          <Link
-            linkName="רכישת מחשב נייד 2"
-            background={LaptopPurchase}
-            file={LaptopPurchase2PDF}
-          /> */}
           <Link
             linkName="השכרת לוקרים"
             background={LockerRental}
-            file={LockerRentalPDF}
+            path={LockerRentalPDF}
           />
           {/* <Link linkName="לוח חופשות" background={VacationSchedule} /> */}
         </section>

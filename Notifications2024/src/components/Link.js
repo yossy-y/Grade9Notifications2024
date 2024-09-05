@@ -5,7 +5,7 @@ export default function Link(props) {
   return (
     <a
       target="_blank"
-      href={props.file}
+      href={props.path}
       style={{ backgroundImage: `url(${props.background})` }}
       className={`${classes.link} ${classes.linkImg}`}
     >
